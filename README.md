@@ -1,1 +1,1 @@
-#### Live site: https://rokeyasultana.github.io/temarature-hot-solution/
+#### Live site: https://rokeyasultana.github.io/temparature-hot-solution/
